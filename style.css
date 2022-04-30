@@ -1,0 +1,11 @@
+div.meme {
+	text-align: center;
+	font-size: 40px;
+	font-family: Comic Sans MS;
+}
+
+div.reddit {
+	text-align: center;
+	font-family: Comic Sans MS;
+	color: #0392CF;
+}
